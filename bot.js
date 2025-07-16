@@ -313,7 +313,7 @@ const COMMAND_DOCS = {
     '!add': {
         description: "Add a user to the group (Admin only)",
         usage: "!add <phone_number>",
-        example: "!add 2348124269148",
+        example: "!add 2349152705767",
         category: "Group"
     },
     '!promote': {
